@@ -1,0 +1,20 @@
+todo:
+set up empty project using a javascript MVC framework (ex. Sails)
+
+figure out what is needed from the braintree-web-drop-in repo 
+
+put into views in the new empty project 
+
+craft models and controllers in JS that match the RoR project 
+
+update the graphql code as needed to support the new payment methods  
+
+
+
+
+done:
+
+
+
+
+did not do: 
